@@ -1,3 +1,14 @@
-.body {
-    background: salmon;
+h1{
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    display: block;
+    margin: 0 auto;
+    width: 50%;
 }
+
+/* form{
+    border: 1px solid black;
+} */
