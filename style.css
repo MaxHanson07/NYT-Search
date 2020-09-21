@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+body {
+    background: salmon;
+}
+=======
 h1{
     text-align: center;
     border: 1px solid black;
@@ -12,3 +17,4 @@ h1{
 /* form{
     border: 1px solid black;
 } */
+>>>>>>> e51fa98e109ada285b5cdb283207e9c7a46efae8
